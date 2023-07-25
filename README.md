@@ -21,6 +21,14 @@ Software Required:
 3. Any text editor for writing the C code
 4. Optionally, a simulator like Proteus for testing the circuit before hardware implementation
 
+References
+*Circuit digest
+-https://circuitdigest.com/microcontroller-projects/digital-alarm-clock-using-avr
+*Maryam Saeidmehr
+-https://github.com/BitterOcean/DigitalAlarmClock/blob/master/Digital_Alarm_clock.c
+
+
+
 Step-by-Step Implementation:
 
 1. Setting up the ATmega32:
